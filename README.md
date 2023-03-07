@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @JNaid00
-- 👀 I’m interested in coding, gaming solving problems.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
+<h1 align="center">Jesse Naidoo</h1>
 ## Frameworks
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
