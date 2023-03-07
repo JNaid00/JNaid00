@@ -1,5 +1,13 @@
 <h1 align="center">Jesse Naidoo</h1>
 
+
+<p>
+I am a highly motivated student currently studying to obtain a BSc
+Computer Science degree. I am a dedicated worker and seeking to
+gain experience in the IT industry. I am passionate about what I do
+and I aspire to be the best at it.</p>
+🧑‍🎓 I am currently a third year Computer Science student studying at the University of Pretoria 🏫
+
 ## Frameworks
 
 <p align="left"> 
