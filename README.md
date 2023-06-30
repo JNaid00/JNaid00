@@ -8,6 +8,8 @@ gain experience in the IT industry. I am passionate about what I do
 and I aspire to be the best at it.</p>
 🧑‍🎓 I am currently a third year Computer Science student studying at the University of Pretoria 🏫
 
+☁️ I am current working on [Blue Skies](https://github.com/COS301-SE-2023/Blue-Skies) ☁️
+
 ## Frameworks
 
 <p align="left"> 
