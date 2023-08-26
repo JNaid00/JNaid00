@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=JNaid00)
 <h1 align="center">Jesse Naidoo</h1>
 
 
