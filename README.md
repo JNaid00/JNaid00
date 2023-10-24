@@ -10,6 +10,8 @@ and I aspire to be the best at it.</p>
 
 ☁️ I am current working on [Blue Skies](https://github.com/COS301-SE-2023/Blue-Skies) ☁️
 
+Email me - jessenaidoo24@gmail.com
+
 ## Frameworks
 
 <p align="left"> 
